@@ -1,8 +1,6 @@
 #!/bin/bash
+# Author: Safiatu Seidu
+# Date: March 14, 2026
+# Description: User data script to display Hello World
 
-    #Author : Utrains
-    #Date : 01-Nov-2021
-
-## ---------- script that display hello word in the screen -----------------
-
-echo "Yello Word !"
+echo "Hello World"
