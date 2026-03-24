@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-    #Author : Utrains
-    #Date : 01-Nov-2021
+    #Author : Safiatu Seidu
+    #Date : 01-Nov-2025
     
 ## ---------- If statement allow you to check specific condition  -----------------
 

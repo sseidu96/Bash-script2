@@ -1,16 +1,16 @@
 #!/bin/bash
 
-    #Author : Utrains
-    #Date : 01-Nov-2021
+    #Author : Safiatu Seidu
+    #Date : 01-JAN-2026
 
 ## ---------- variables allow to contain values that we want to use several times in our scripts -----------------
 
 #In this script, we can create 4 variables ...
 
-FIRST_NAME=Dianna
-LAST_NAME=KAMGANG
+FIRST_NAME=Safiatu
+LAST_NAME=Seidu
 COLOR=Purple
-AGE=27
+AGE=29
 
 echo "$FIRST_NAME is a very hard working girl"
 echo "Her last name is $LAST_NAME and her favorite color is $COLOR"
